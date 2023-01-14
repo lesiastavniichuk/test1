@@ -1,9 +1,9 @@
-.body {
-  background-color: red;
-}
-
 .title {
   display: inline;
   background: yellow;
   padding: 5px 22px 5px 22px;
+}
+
+.body {
+  background-color: red;
 }/*# sourceMappingURL=main.css.map */
